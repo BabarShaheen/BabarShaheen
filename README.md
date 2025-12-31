@@ -29,11 +29,12 @@
 
 ## 🚀 About Me
 
-I’m a **Software Engineering student** with a strong interest in **full-stack web development, mobile applications, and cloud computing**. I enjoy building clean, scalable systems and translating real-world problems into practical digital solutions.
+Hi, I’m **Babar Shaheen** – a **Software Engineering student** passionate about **full-stack development, mobile apps, and cloud computing**.  
 
-My work focuses on **modern frontend frameworks**, **robust backend architectures**, and **maintainable code practices**. I’m continuously learning and experimenting with **cloud-native technologies**, system design, and performance optimization to grow as a well-rounded engineer.
+I love building **clean, scalable, and user-centric solutions** using **modern frontend frameworks** and **robust backend architectures**. Always exploring **cloud-native technologies, system design, and performance optimization** to level up as an engineer.  
 
-I value **clarity, consistency, and continuous improvement**, and I aim to build software that is both technically sound and user-centric.
+💡 **Focus:** Clarity, maintainable code, and continuous improvement.  
+
 
 ---
 
