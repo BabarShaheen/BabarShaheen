@@ -82,6 +82,7 @@ I value **clarity, consistency, and continuous improvement**, and I aim to build
   <img src="https://raw.githubusercontent.com/BabarShaheen/BabarShaheen/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+
 ---
 
 <!-- ===================== CONTRIBUTION HEATMAP ===================== -->
