@@ -1,20 +1,32 @@
-name: Run Snake Game
+name: GitHub Contribution Snake
 
+# Trigger the workflow manually or on a schedule (every day at midnight)
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # every day at 00:00 UTC
+  workflow_dispatch:     # allows manual trigger
 
 jobs:
-  run-snake:
+  update-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      # 1️⃣ Checkout your repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Generate contribution snake SVG
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v1.5.0
         with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Run Snake
-        run: python snake.py
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: output/github-contribution-grid-snake-dark.svg
+
+      # 3️⃣ Commit & push the updated SVG
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "BabarShaheen"
+          git config --global user.email "your-email@example.com"
+          git add output/github-contribution-grid-snake-dark.svg
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git push
