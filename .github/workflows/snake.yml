@@ -1,21 +1,21 @@
 name: GitHub Contribution Snake
 
-# Trigger the workflow manually or on a schedule (every day at midnight)
+# Trigger: manual run or daily schedule
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at 00:00 UTC
-  workflow_dispatch:     # allows manual trigger
+    - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:     # allows manual trigger from Actions tab
 
 jobs:
   update-snake:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout your repo
+      # 1️⃣ Checkout your repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Generate contribution snake SVG
+      # 2️⃣ Generate GitHub Contribution Snake SVG
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v1.5.0
         with:
