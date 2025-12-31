@@ -78,7 +78,7 @@ I love building **clean, scalable, and user-centric solutions** using **modern f
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BabarShaheen/BabarShaheen/output/github-contribution-grid-snake-dark.svg" />
@@ -87,7 +87,7 @@ I love building **clean, scalable, and user-centric solutions** using **modern f
 </p>
 
 
-
+-->
 ---
 
 <!-- ===================== CONTRIBUTION HEATMAP ===================== -->
