@@ -70,13 +70,33 @@ I value **clarity, consistency, and continuous improvement**, and I aim to build
 
 ## 📊 GitHub Analytics
 
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BabarShaheen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabarShaheen&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabarShaheen&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BabarShaheen/BabarShaheen/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION HEATMAP ===================== -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BabarShaheen&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabarShaheen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BabarShaheen&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BabarShaheen&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BabarShaheen&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BabarShaheen&theme=tokyonight&utcOffset=5" width="48%" />
 </p>
 
 ---
