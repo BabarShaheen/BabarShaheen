@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Developer;Mobile+App+Developer;Learning+Cloud+Computing&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full-Stack+Developer;Mobile+App+Developer;Learning+Cloud+Computing&center=true&width=600&height=45">
 </p>
 
 <!-- ===================== SOCIAL BUTTONS ===================== -->
@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Babar Shaheen** – a **Software Engineering student** passionate about **full-stack development, mobile apps, and cloud computing**.  
+Hi, I’m **Babar Shaheen** – a **Software Engineer** passionate about **full-stack development, mobile apps, and cloud computing**.  
 
 I love building **clean, scalable, and user-centric solutions** using **modern frontend frameworks** and **robust backend architectures**. Always exploring **cloud-native technologies, system design, and performance optimization** to level up as an engineer.  
 
